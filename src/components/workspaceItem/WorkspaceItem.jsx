@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import "./WorkspaceItem.css"
+import "./workspaceItem.css"
 const WorkspaceItem = ({img,title,miembros,id}) =>{
     return (
         <div className="workspace-item">  
